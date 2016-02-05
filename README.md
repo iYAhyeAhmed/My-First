@@ -1,2 +1,2 @@
-# Coffee-Order
-My beginner android development course project
+# Hello World
+My beginner git project
